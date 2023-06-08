@@ -15,6 +15,8 @@ _Automatically create NuGet packages to share code across platforms using the 'N
 
 It is possible to automatically create NuGet packages to share code across platforms using the _Nugetizer 3000_. This makes is possible to create NuGet packages from existing library projects or by creating a new **Multiplatform Library Project**.
 
+Compatible only with Visual Studio for Mac 2019 (not supported on Visual Studio 2022 or higher!)
+
 # [Visual Studio for Mac](#tab/macos)
 
 The Nugetizer 3000 is included with Visual Studio for Mac &ndash; look for the **Library > Mulitplatform Library** project type in the **File > New** window:
